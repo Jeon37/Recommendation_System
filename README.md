@@ -24,3 +24,4 @@
 
 ### ✔️ 영화 추천 시스템 개발
 - 데이터 : IMDB에서 제공하는 영화 정보, 평점, 기타 소개 정보 데이터
+- 모델링 : Contents-based Filtering + Collaborative Filtering 합친 Hybrid 추천시스템을 개발
